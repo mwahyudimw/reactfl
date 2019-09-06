@@ -1,0 +1,32 @@
+.data{
+	width: 60%;
+	height: 500px;
+	background-color: rgba(0,0,0,0.3);
+	position: relative;
+	color: #fff;
+	border-radius: 20px;
+	text-align: left;
+	align-content: center;
+	justify-content: left;
+	display: flex;
+	padding: 10px;
+	top: 70px;
+	right: 3%;
+}
+
+.p{
+	width: 200%;
+	height: 60px;
+	padding-left: 10px;
+	align-items: center;
+	align-content: center;
+	justify-content: left;
+	display: flex;
+	border-radius: 20px;
+	background-color: teal;
+}
+
+.p:hover{
+	background: rgba(0,0,0,0.3);
+	cursor: pointer;
+}

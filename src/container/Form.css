@@ -1,0 +1,49 @@
+.form{
+	width: 25%;
+	height: 500px;
+	background: rgba(0,0,0,0.3);
+	padding: 10px 10px;
+	margin: 5% 6%;
+	float: left;
+	border-radius: 20px;
+}
+
+.title{
+	width: 100%;
+	font-size: 55px;
+	color: #fff;
+	border-bottom: 3px solid #fff;
+
+}
+
+.input_title{
+	display: block;
+	color: #fff;
+	position: relative;
+	top: 60px;
+	margin: 15px 1px;
+}
+input{
+	position: relative;
+	top: 60px;
+	border-radius: 20px;
+	width: 80%;
+	height: 30px;
+	padding-left: 10px;
+	background: #fff;
+}
+
+Button{	
+	width: 20%;
+	height: 30px;
+	background: teal;
+	border-radius: 20px;
+	margin-top: 60px;
+	color: #fff;
+}
+
+Button:hover{
+	background: rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+
